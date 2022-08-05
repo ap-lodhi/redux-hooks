@@ -1,0 +1,259 @@
+{"data":[
+    {
+        "rest_name":"swagath Restaurent ",
+        "rest_img":"https://www.swagath.in/assets/img/about/about1.jpg",
+        "rating":4.5,
+        "cost_for_one":500,
+        "cost_for_two":1000,
+        "total_votes":752,
+        "reviews":455,
+        "categories":"Casual dining restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":true,
+            "upi":true
+        }
+    },
+    {
+        "rest_name":"CHESTNUT RESTAURANT ",
+        "rest_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtIjzWei1cQB6z4CrSJcHtijoPOKF5sM_4w&usqp=CAU",
+        "rating":4.1,
+        "cost_for_one":540,
+        "cost_for_two":1300,
+        "total_votes":452,
+        "reviews":345,
+        "categories":"Fine dining restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":true
+        }
+    }, {
+        "rest_name":"Noma",
+        "rest_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIlcj_Yk6t9qtlqVBMn7bgxyKPLO_m2EaVew&usqp=CAU",
+        "rating":3.9,
+        "cost_for_one":790,
+        "cost_for_two":1900,
+        "total_votes":952,
+        "reviews":695,
+        "categories":"Family-style restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"One8 commune",
+        "rest_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-UxrbLUHlZLwaJjWZG8YthiGAAn8XZCZng&usqp=CAU",
+        "rating":4.3,
+        "cost_for_one":530,
+        "cost_for_two":1030,
+        "total_votes":732,
+        "reviews":355,
+        "categories":"Fast-casual restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"EDEN",
+        "rest_img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwCgP9ujE3vqQ2Fp8qJ51a5Y7pcdEyGdtFDQ&usqp=CAU",
+        "rating":1,
+        "cost_for_one":560,
+        "cost_for_two":1060,
+        "total_votes":756,
+        "reviews":655,
+        "categories":"Fast-food restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"GINGER HOUSE",
+        "rest_img":"https://tse1.mm.bing.net/th?id=OIP._3F8R7SVg9hwsw31ZBkamAHaEc&pid=Api&P=0&w=255&h=153",
+        "rating":4.9,
+        "cost_for_one":599,
+        "cost_for_two":1900,
+        "total_votes":792,
+        "reviews":495,
+        "categories":"Cafés",
+        "payment_method":{
+            "card":true,
+            "cash":false,
+            "upi":true
+        }
+    }, {
+        "rest_name":"INDIQUE",
+        "rest_img":"https://tse3.mm.bing.net/th?id=OIP.giTDbcbz2D6Y_5qcJNQEXAHaEK&pid=Api&P=0&w=327&h=183",
+        "rating":1.2,
+        "cost_for_one":300,
+        "cost_for_two":1300,
+        "total_votes":352,
+        "reviews":435,
+        "categories":"Buffets",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"KEWPIE’S",
+        "rest_img":"https://tse2.mm.bing.net/th?id=OIP.RT2jzuKno5zK-5jiA9-KMgHaE7&pid=Api&P=0&w=266&h=177",
+        "rating":2.2,
+        "cost_for_one":580,
+        "cost_for_two":1080,
+        "total_votes":852,
+        "reviews":855,
+        "categories":"Casual dining restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":false,
+            "upi":true
+        }
+    },
+    {
+        "rest_name":"KYBER AT FORT",
+        "rest_img":"https://tse1.mm.bing.net/th?id=OIP.5dYQZeLoP24e39W-75oOMwHaHa&pid=Api&P=0&w=155&h=155",
+        "rating":2.9,
+        "cost_for_one":509,
+        "cost_for_two":1090,
+        "total_votes":952,
+        "reviews":459,
+        "categories":"Fine dining restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"MASQUE",
+        "rest_img":"https://tse3.mm.bing.net/th?id=OIP.byIiUtT2IContUZfY7WlVgHaEr&pid=Api&P=0&w=246&h=155",
+        "rating":3.1,
+        "cost_for_one":510,
+        "cost_for_two":1010,
+        "total_votes":751,
+        "reviews":451,
+        "categories":"Family-style restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"MAVALLI TIFFIN ROOMS",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.ayfghlxyyMKx__HY785m3wHaE8&pid=Api&P=0&w=260&h=173",
+        "rating":1.6,
+        "cost_for_one":560,
+        "cost_for_two":1060,
+        "total_votes":762,
+        "reviews":465,
+        "categories":"Fast-casual restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":true
+        }
+    }, {
+        "rest_name":"THE RAINTREE",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.IlK1-kcJZv_iWxe9BH1JqgHaE7&pid=Api&P=0&w=265&h=177",
+        "rating":3.5,
+        "cost_for_one":510,
+        "cost_for_two":1670,
+        "total_votes":444,
+        "reviews":322,
+        "categories":"Fast-food restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":false,
+            "upi":true
+        }
+    }, {
+        "rest_name":"ROYAL REPAST",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.FpOywz1XHgpxrjA3KaBmgAHaFj&pid=Api&P=0&w=210&h=157",
+        "rating":4.0,
+        "cost_for_one":520,
+        "cost_for_two":1400,
+        "total_votes":545,
+        "reviews":773,
+        "categories":"Cafés",
+        "payment_method":{
+            "card":true,
+            "cash":false,
+            "upi":true
+        }
+    }, {
+        "rest_name":"SANA-DI-GE",
+        "rest_img":"https://tse2.mm.bing.net/th?id=OIP.pn-3H-pskTxeA9vcIl-bMAHaFm&pid=Api&P=0&w=250&h=189",
+        "rating":4.8,
+        "cost_for_one":520,
+        "cost_for_two":1020,
+        "total_votes":928,
+        "reviews":132,
+        "categories":"Buffets",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":true
+        }
+    }, {
+        "rest_name":"SHEESH MAHAL AT THE LEELA",
+        "rest_img":"https://tse2.mm.bing.net/th?id=OIP.vpBieTBqdaseyW5OJz7HLAHaE7&pid=Api&P=0&w=231&h=154",
+        "rating":1.2,
+        "cost_for_one":300,
+        "cost_for_two":1400,
+        "total_votes":152,
+        "reviews":155,
+        "categories":"Casual dining restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":false
+        }
+    },
+    {
+        "rest_name":"Chill N Grill",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.ayfghlxyyMKx__HY785m3wHaE8&pid=Api&P=0&w=260&h=173",
+        "rating":4.6,
+        "cost_for_one":560,
+        "cost_for_two":1200,
+        "total_votes":472,
+        "reviews":283,
+        "categories":"Fast-casual restaurants",
+        "payment_method":{
+            "card":false,
+            "cash":true,
+            "upi":false
+        }
+    }, {
+        "rest_name":"SODABOTTLEOPENERWALA",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.IlK1-kcJZv_iWxe9BH1JqgHaE7&pid=Api&P=0&w=265&h=177",
+        "rating":3.7,
+        "cost_for_one":880,
+        "cost_for_two":1550,
+        "total_votes":752,
+        "reviews":453,
+        "categories":"Fast-food restaurants",
+        "payment_method":{
+            "card":true,
+            "cash":false,
+            "upi":false
+        }
+    }, {
+        "rest_name":"THE TABLE",
+        "rest_img":"https://tse4.mm.bing.net/th?id=OIP.FpOywz1XHgpxrjA3KaBmgAHaFj&pid=Api&P=0&w=210&h=157",
+        "rating":2.3,
+        "cost_for_one":900,
+        "cost_for_two":2000,
+        "total_votes":652,
+        "reviews":478,
+        "categories":"Cafés",
+        "payment_method":{
+            "card":false,
+            "cash":false,
+            "upi":true
+        }
+    }
+]
+}
