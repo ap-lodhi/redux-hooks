@@ -252,8 +252,15 @@ const Restaurant = () => {
 ))
       }
       </div>
+      <div>
+        <h1>Add New Restaurent</h1>
+      </div>
     </div>
+    
+  
   )
+
+   
 }
 
 export default Restaurant
