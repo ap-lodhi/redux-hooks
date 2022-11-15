@@ -11,9 +11,7 @@ const Restaurant = () => {
     const [costSort , setCostSort] = useState("")
 
 
-   
-   
-    return (
+     return (
     <div>
       <h1>Restaurant</h1>
       <hr />
